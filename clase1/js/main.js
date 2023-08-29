@@ -75,4 +75,4 @@
 let estatura = parseFloat(prompt("Ingrese su Altura"));
 let peso = parseFloat(prompt("Ingrese su Peso"));
 let resultado = peso/(estatura*estatura);
-alert("Tu IMC es: " + resultado)
+alert("Tu IMC es: " + resultado);
